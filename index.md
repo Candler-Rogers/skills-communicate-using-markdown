@@ -5,3 +5,7 @@
 So, I tried some headers now, yay
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+print("Hello Underworld.")
+```
