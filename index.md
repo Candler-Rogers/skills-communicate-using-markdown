@@ -9,3 +9,6 @@ So, I tried some headers now, yay
 ```
 print("Hello Underworld.")
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
